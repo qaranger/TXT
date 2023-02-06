@@ -1,0 +1,5 @@
+{"Favorite film" : "Five element",
+"Favorite serial" : "Games of thrones",
+"Favorite food" : "All for something)",
+"Favorite time of a year" : "Spring",
+"Country wich I want to visit" : "USA"}
